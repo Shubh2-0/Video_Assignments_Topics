@@ -5,6 +5,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
+import java.util.TreeMap;
 
 @FunctionalInterface
 interface MapSorting{
@@ -82,6 +83,9 @@ public class Demo {
    map = sort1.sortingMap(map);
    System.out.println(map);
    
+    
+	TreeMap<String, Integer> m = new TreeMap<>((s1,s2) -> s2.compareTo(s1)  );
+	
 	
 		
 	}
