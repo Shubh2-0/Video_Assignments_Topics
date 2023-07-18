@@ -5,7 +5,7 @@ Welcome to my GitHub repository! This repository contains three projects that I 
 ![image](https://github.com/Shubh2-0/Video_Assignments_Topics/assets/112773220/957872c0-0654-433e-9a77-d553286129c6)
  
  
-
+ 
 ## Sprint-1 🏃‍♀️
 
 In the sprint-1 project, I focused on explaining the difference between the `equals()` and `hashCode()` methods in Java. Understanding these methods is crucial for proper implementation of object equality and usage in collections like sets and maps. The project covered the importance of overriding the `equals()` and `hashCode()` methods and provided code examples to illustrate the concepts. 🤝🔍
