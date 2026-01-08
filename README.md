@@ -1,25 +1,47 @@
-# Video Assignments Topics
+<div align="center">
 
-Welcome to my GitHub repository! This repository contains three projects that I have created as part of the Zoom Marathon Challenge. 🏃‍♂️🎥 The challenge required us to record 5-minute videos explaining various topics. To make the explanations more interactive and engaging, I decided to create projects demonstrating these topics. Let's explore the projects from sprint-1 to sprint-3:
+# 🎥 Video Assignments Topics
 
-![image](https://github.com/Shubh2-0/Video_Assignments_Topics/assets/112773220/957872c0-0654-433e-9a77-d553286129c6)
- 
- 
- 
-## Sprint-1 🏃‍♀️
+[![GitHub stars](https://img.shields.io/github/stars/Shubh2-0/Video_Assignments_Topics?style=for-the-badge&logo=github&color=yellow)](https://github.com/Shubh2-0/Video_Assignments_Topics/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Shubh2-0/Video_Assignments_Topics?style=for-the-badge&logo=github&color=blue)](https://github.com/Shubh2-0/Video_Assignments_Topics/network/members)
 
-In the sprint-1 project, I focused on explaining the difference between the `equals()` and `hashCode()` methods in Java. Understanding these methods is crucial for proper implementation of object equality and usage in collections like sets and maps. The project covered the importance of overriding the `equals()` and `hashCode()` methods and provided code examples to illustrate the concepts. 🤝🔍
+### Zoom Marathon Challenge Projects
 
-## Sprint-2 🚀
+*Object equality, streams, serialization, and multithreading*
 
-The sprint-2 project delved into advanced topics related to software development and programming paradigms. It covered topics such as functional interfaces, map sorting, method references, and the differences between `Runnable` and `Callable` interfaces. Each topic was explained with code examples and demonstrations to enhance the understanding of these concepts. 🧩💡
+</div>
 
-## Sprint-3 🌟
+---
 
-In the sprint-3 project, I explored cutting-edge technologies and emerging trends in the field of computer science. The topics covered included byte streams and character streams, serialization and deserialization, and thread and runnable examples. The project provided insights into these topics and offered practical examples and explanations to facilitate learning and exploration. 🌐📡💻
+## 🎯 About
 
-By creating these projects, I aimed to provide a comprehensive resource for the Zoom Marathon Challenge, enabling participants to gain a deeper understanding of the topics through practical demonstrations. 🎯📚
+Projects created for the **Zoom Marathon Challenge** covering advanced Java topics including object comparison, streams, serialization, and multithreading.
 
-Feel free to explore each project's directory to access the code, videos, and documentation related to each topic. You can clone this repository to your local machine and start learning and exploring these exciting subjects! 📥🔬
+## 📚 Topics Covered
 
-## 🎥 Happy learning and exploring in the Zoom Marathon Challenge! 🚀🌟
+| Topic | Description |
+|-------|-------------|
+| Object Equality | equals() and hashCode() |
+| Streams | Java 8 Stream API |
+| Serialization | Object persistence |
+| Multithreading | Concurrent programming |
+
+## 📽️ Resources
+
+Each project includes:
+- 💻 Source code
+- 📹 Video explanations
+- 📄 Documentation
+
+## 🛠️ Technologies
+
+Java 8+ | Stream API | Serialization | Threads
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-bhati-787319213/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhambhati226@gmail.com)
+
+---
+
+**Keywords:** Java Streams Serialization Multithreading Object-Equality Challenge
